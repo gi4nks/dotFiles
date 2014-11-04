@@ -2,12 +2,11 @@
 # Usage is also described at https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins
 
 # Working folder aliases - https://wiki.archlinux.org/index.php/Pacman_Tips
-alias work='cd /cygdrive/c/work'
-alias workspace='cd /cygdrive/c/work/workspace'
+alias projects='cd /Users/gianluca/Projects'
 
 alias java8='set_java_home_8'
 alias java7='set_java_home_7'
-alias java7='set_java_home_6'
+alias java6='set_java_home_6'
 
 alias extract=extract
 
